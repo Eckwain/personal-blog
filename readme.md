@@ -1,10 +1,10 @@
 ## Layout
 ### Home page
-![image ](./Home%20page.jpg)
+![image ](./img/Home%20page.jpg)
 
 ### Blog page
-![image ](./BLOG%20page.jpg)
+![image ](./img/BLOG%20page.jpg)
 
 ### About page
-![image ](./ABOUT%20page.jpg)
+![image ](./img/ABOUT%20page.jpg)
 
