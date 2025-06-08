@@ -1,0 +1,75 @@
+* {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+}
+
+body {
+    background: #03002b;
+    background: linear-gradient(333deg, rgba(3, 0, 43, 1) 0%, rgba(43, 43, 43, 1) 100%);
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    padding: 3em 1em 3em 10em;
+    text-align: left;
+}
+
+.description p{
+    max-width: 70%;
+}
+
+.main *{
+    margin: 10px;
+}
+
+.header {
+    display: block;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.13);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    border: 1px solid rgba(255, 255, 255, 0.43);
+    padding: 10px;
+}
+
+.header a {
+    margin-left: 2em;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+a:hover {
+    color: rgb(108, 0, 0);
+}
+
+.myPhoto {
+    width: 300px;
+}
+
+.myPhoto img {
+    width: 100%;
+    height: auto;
+
+}
+
+footer {
+    background-color: gainsboro;
+    text-align: center;
+    color: white;
+    background: rgba(255, 255, 255, 0.13);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.2px);
+    -webkit-backdrop-filter: blur(6.2px);
+    padding: 30px;
+}
